@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="db5faead6eea44f8a6140e097f30db68" Name="Diagram1">
+        <EntityTypeShape EntityType="AlertALifeDBModel.C__MigrationHistory" Width="1.5" PointX="5.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AlertALifeDBModel.Activity" Width="1.5" PointX="5.25" PointY="5.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="AlertALifeDBModel.ActivityConactEmailTracking" Width="1.5" PointX="0.75" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AlertALifeDBModel.ActivityContactGroup" Width="1.5" PointX="7.5" PointY="10.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="AlertALifeDBModel.ActivityContactResponse" Width="1.5" PointX="7.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AlertALifeDBModel.ActivityContact" Width="1.5" PointX="10.5" PointY="9.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="AlertALifeDBModel.ActivityEmailTracking" Width="1.5" PointX="7.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AlertALifeDBModel.ActivityHistory" Width="1.5" PointX="5.25" PointY="10.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="AlertALifeDBModel.ActivityResult" Width="1.5" PointX="9.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AlertALifeDBModel.Address" Width="1.5" PointX="9.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AlertALifeDBModel.AlertFrequency" Width="1.5" PointX="11.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AlertALifeDBModel.Alert" Width="1.5" PointX="11.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AlertALifeDBModel.AlertType" Width="1.5" PointX="12.75" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AlertALifeDBModel.AspNetRole" Width="1.5" PointX="0.75" PointY="14.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="AlertALifeDBModel.AspNetUserClaim" Width="1.5" PointX="5.25" PointY="16" IsExpanded="true" />
+        <EntityTypeShape EntityType="AlertALifeDBModel.AspNetUserLogin" Width="1.5" PointX="5.25" PointY="18.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AlertALifeDBModel.AspNetUser" Width="1.5" PointX="3" PointY="10.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="AlertALifeDBModel.CheckIn" Width="1.5" PointX="12.75" PointY="12.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AlertALifeDBModel.CheckInSchedule" Width="1.5" PointX="13.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AlertALifeDBModel.ContactAccessToken" Width="1.5" PointX="13.75" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AlertALifeDBModel.ContactAlertAssociation" Width="1.5" PointX="14.75" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AlertALifeDBModel.ContactGroup" Width="1.5" PointX="5.25" PointY="21.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="AlertALifeDBModel.ContactGrouped" Width="1.5" PointX="7.5" PointY="15.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="AlertALifeDBModel.Contact" Width="1.5" PointX="5.25" PointY="25.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="AlertALifeDBModel.Country" Width="1.5" PointX="14.75" PointY="12.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AlertALifeDBModel.DeathAlert" Width="1.5" PointX="15.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AlertALifeDBModel.DeathalertEmailTracking" Width="1.5" PointX="15.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AlertALifeDBModel.DeathContactEmailTracker" Width="1.5" PointX="14.75" PointY="15.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AlertALifeDBModel.DocumentCategory" Width="1.5" PointX="16.75" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AlertALifeDBModel.DocumentCategoryMapping" Width="1.5" PointX="16.75" PointY="12.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AlertALifeDBModel.Document" Width="1.5" PointX="16.75" PointY="15.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AlertALifeDBModel.ERRORLOG" Width="1.5" PointX="17.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AlertALifeDBModel.FinalLetter" Width="1.5" PointX="0.75" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="AlertALifeDBModel.FinalLetterContact" Width="1.5" PointX="7.5" PointY="26.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="AlertALifeDBModel.FinalLetterDocument" Width="1.5" PointX="3" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="AlertALifeDBModel.MilestoneMediaFile" Width="1.5" PointX="18.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AlertALifeDBModel.Milestone" Width="1.5" PointX="18.75" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AlertALifeDBModel.ProfilePercentageMaster" Width="1.5" PointX="8" PointY="20.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="AlertALifeDBModel.RelationshipType" Width="1.5" PointX="10.75" PointY="18.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AlertALifeDBModel.RoutineContacResponse" Width="1.5" PointX="18.75" PointY="13.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AlertALifeDBModel.RoutineResult" Width="1.5" PointX="18.75" PointY="17.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AlertALifeDBModel.SafetyAlert" Width="1.5" PointX="12.75" PointY="19.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AlertALifeDBModel.SecurityQuestion" Width="1.5" PointX="19.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AlertALifeDBModel.ShortTermAlert" Width="1.5" PointX="0.75" PointY="20.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AlertALifeDBModel.SnoozeMaster" Width="1.5" PointX="20.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AlertALifeDBModel.State" Width="1.5" PointX="20.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AlertALifeDBModel.sysdiagram" Width="1.5" PointX="20.75" PointY="10.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AlertALifeDBModel.TimeSlatMaster" Width="1.5" PointX="20.75" PointY="13.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AlertALifeDBModel.TimeZone" Width="1.5" PointX="14.75" PointY="20.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AlertALifeDBModel.Transaction" Width="1.5" PointX="20.75" PointY="16.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AlertALifeDBModel.TypeMaster" Width="1.5" PointX="20.75" PointY="20.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AlertALifeDBModel.UserActivityConfiguraion" Width="1.5" PointX="16.75" PointY="21.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AlertALifeDBModel.UserAlertConfiguration" Width="1.5" PointX="22.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AlertALifeDBModel.Userdefaultconfiguration" Width="1.5" PointX="22.75" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AlertALifeDBModel.UsersSchedule" Width="1.5" PointX="22.75" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AlertALifeDBModel.WeekdayMaster" Width="1.5" PointX="22.75" PointY="13.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AlertALifeDBModel.DeathAlertAssociatedInformation" Width="1.5" PointX="22.75" PointY="16.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AlertALifeDBModel.ErrorTracker" Width="1.5" PointX="22.75" PointY="19.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AlertALifeDBModel.ProfileCompletionStatu" Width="1.5" PointX="10.25" PointY="14.5" IsExpanded="true" />
+        <AssociationConnector Association="AlertALifeDBModel.FK_Activity_Activity_USERID" ManuallyRouted="false" />
+        <AssociationConnector Association="AlertALifeDBModel.FK_ActivityContactGroup_ActivityID" ManuallyRouted="false" />
+        <AssociationConnector Association="AlertALifeDBModel.FK_ActivityContacts_Activity" ManuallyRouted="false" />
+        <AssociationConnector Association="AlertALifeDBModel.FK_ActivityContactGroup_AspNetUsers" ManuallyRouted="false" />
+        <AssociationConnector Association="AlertALifeDBModel.FK_ActivityContacts_ActivityUserId" ManuallyRouted="false" />
+        <AssociationConnector Association="AlertALifeDBModel.FK_ActivityHistory_ActivityHistory_USERID" ManuallyRouted="false" />
+        <AssociationConnector Association="AlertALifeDBModel.FK_dbo_AspNetUserClaims_dbo_AspNetUsers_UserId" ManuallyRouted="false" />
+        <AssociationConnector Association="AlertALifeDBModel.FK_dbo_AspNetUserLogins_dbo_AspNetUsers_UserId" ManuallyRouted="false" />
+        <AssociationConnector Association="AlertALifeDBModel.FK_ContactGroup_AspNetUsers" ManuallyRouted="false" />
+        <AssociationConnector Association="AlertALifeDBModel.FK_ContactGrouped_AspNetUsers" ManuallyRouted="false" />
+        <AssociationConnector Association="AlertALifeDBModel.FK_ProfileCompletionStatus_AspNetUsers" ManuallyRouted="false" />
+        <AssociationConnector Association="AlertALifeDBModel.FK_ContactGrouped_ContactGroup" ManuallyRouted="false" />
+        <AssociationConnector Association="AlertALifeDBModel.FK_ContactGrouped_Contacts" ManuallyRouted="false" />
+        <AssociationConnector Association="AlertALifeDBModel.FK_FinalLetterContacts_Contacts" ManuallyRouted="false" />
+        <AssociationConnector Association="AlertALifeDBModel.FK_FinalLetterDocument_FinalLetterId" ManuallyRouted="false" />
+        <AssociationConnector Association="AlertALifeDBModel.FK_ProfileCompletionStatus_ProfilePercentageMaster" ManuallyRouted="false" />
+        <AssociationConnector Association="AlertALifeDBModel.AspNetUserRoles" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
