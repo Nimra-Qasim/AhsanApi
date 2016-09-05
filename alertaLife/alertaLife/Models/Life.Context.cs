@@ -18,6 +18,7 @@ namespace alertaLife.Models
         public AlertALifeDBEntities()
             : base("name=AlertALifeDBEntities")
         {
+            this.Configuration.LazyLoadingEnabled = false;
         }
     
         protected override void OnModelCreating(DbModelBuilder modelBuilder)

@@ -2328,7 +2328,7 @@ FROM [dbo].[ProfileCompletionStatus] AS [ProfileCompletionStatus]</DefiningQuery
           <End Role="AspNetRoles" Type="Self.AspNetRole" Multiplicity="*" />
           <End Role="AspNetUsers" Type="Self.AspNetUser" Multiplicity="*" />
         </Association>
-        <EntityContainer Name="AlertALifeDBEntities" annotation:LazyLoadingEnabled="true">
+        <EntityContainer Name="AlertALifeDBEntities" annotation:LazyLoadingEnabled="false">
           <EntitySet Name="C__MigrationHistory" EntityType="Self.C__MigrationHistory" />
           <EntitySet Name="Activities" EntityType="Self.Activity" />
           <EntitySet Name="ActivityConactEmailTrackings" EntityType="Self.ActivityConactEmailTracking" />
